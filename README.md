@@ -11,4 +11,9 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: ... 
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=arturhvcpn&&show_icons=true&title_color=f4ede8&icon_color=ff9000&text_color=f4ede8&bg_color=312e38" >
+<a href= "https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturhvcpn&&show_icons=true&title_color=f4ede8&icon_color=ff9000&text_color=f4ede8&bg_color=312e38" />
+</a>
+<a href= "https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arturhvcpn&layout=compact">
+</a>
