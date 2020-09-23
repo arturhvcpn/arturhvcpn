@@ -3,7 +3,7 @@
 
 Hi, I'm Artur Polo Norte, student
 
-- 🔭 I’m currently working on Test Analyst [@facilit](https://github.com/facilit)
+- 🔭 I’m currently working on Quality Analyst [@facilit](https://github.com/facilit)
 - 🌱 I’m currently learning JavaScript / Typescript
 - 🤔 I’m looking for help with Testing Automation
 - 💬 Ask me about Technology and Linux
