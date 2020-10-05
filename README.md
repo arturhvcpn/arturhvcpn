@@ -7,7 +7,7 @@ Hi, I'm Artur Polo Norte, student
 - 🌱 I’m currently learning JavaScript / Typescript
 - 🤔 I’m looking for help with Testing Automation
 - 💬 Ask me about Technology and Linux
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/artur-polo-norte-59aa4318a/)
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/artur-polo-norte-59aa4318a/) | [Twitter](https://twitter.com/ArturPolo)
 - ⚡ Fun fact: Really, my last name is Polo Norte 
 <!--
 ### Hi there, I'm [Artur!](https://arturhvcpn.github.io)! 👋
