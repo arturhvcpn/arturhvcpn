@@ -1,7 +1,7 @@
 ### Hi there, I'm Artur Polo Norte!!! 👋
 
 - 🔭 I'm currently working at home as a Systems Analyst at [@neurotech](https://www.neurotech.com.br)
-- 🌱 I’m currently learning Mobile Development
+- 🌱 I’m currently learning Mobile Development and Pentest
 - 🤔 I’m looking for help with Mobile Development and Testing Automation
 - 💬 Ask me about React, React Native, Linux and Technology
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/artur-polo-norte-59aa4318a/) | [Twitter](https://twitter.com/ArturPolo)
