@@ -1,9 +1,9 @@
 ### Hi there, I'm Artur Polo Norte!!! 👋
 
-- 🔭 I'm currently working at home as a Software Development at [@fcxlabs](https://www.linkedin.com/company/fcxlab…)
+- 🔭 I'm currently working at home as a Mid Software Development at [@fcxlabs](https://www.linkedin.com/company/fcxlabs/)
 - 🌱 I’m currently learning Node and Firebase
 - 🤔 I’m looking for help with Node
-- 💬 Ask me about Node, React, React Native, Linux and Technology
+- 💬 Ask me about Node, React, React Native, Automation, Linux and Technology
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/artur-polo-norte-59aa4318a/) | [Twitter](https://twitter.com/ArturPolo)
 - ⚡ Fun fact: Really, my last name is Polo Norte 
 <!--
