@@ -1,9 +1,9 @@
 ### Hi there, I'm Artur Polo Norte!!! 👋
 
-- 🔭 I'm currently working at home as a Systems Analyst at [@neurotech](https://www.neurotech.com.br)
-- 🌱 I’m currently learning Mobile Development and Pentest
-- 🤔 I’m looking for help with Mobile Development and Testing Automation
-- 💬 Ask me about React, React Native, Linux and Technology
+- 🔭 I'm currently working at home as a Software Development at [@fcxlabs](https://www.linkedin.com/company/fcxlab…)
+- 🌱 I’m currently learning Node and Firebase
+- 🤔 I’m looking for help with Node
+- 💬 Ask me about Node, React, React Native, Linux and Technology
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/artur-polo-norte-59aa4318a/) | [Twitter](https://twitter.com/ArturPolo)
 - ⚡ Fun fact: Really, my last name is Polo Norte 
 <!--
