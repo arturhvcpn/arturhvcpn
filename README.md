@@ -1,9 +1,9 @@
 ### Hi there, I'm Artur Polo Norte!!! 👋
 
-- 🔭 I'm currently working at home as a Mid Software Development at [@fcxlabs](https://www.linkedin.com/company/fcxlabs/)
-- 🌱 I’m currently learning Node and Firebase
-- 🤔 I’m looking for help with Node
-- 💬 Ask me about Node, React, React Native, Automation, Linux and Technology
+- 🔭 I'm currently working at home as a Software Development at [@fcxlabs](https://www.linkedin.com/company/fcxlabs/)
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with Next.js
+- 💬 Ask me about Node, React, React Native, Typescript, Automation, Linux and Technology
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/artur-polo-norte-59aa4318a/) | [Twitter](https://twitter.com/ArturPolo)
 - ⚡ Fun fact: Really, my last name is Polo Norte 
 <!--
@@ -19,8 +19,8 @@
 
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturhvcpn&&show_icons=true&title_color=f4ede8&icon_color=ff9000&text_color=f4ede8&bg_color=312e38" alt="Artur's Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturhvcpn&&show_icons=true&title_color=ffffff&icon_color=392F63&text_color=ffffff&bg_color=B41E13" alt="Artur's Github Stats"/>
 </a>
 <a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arturhvcpn&layout=compact&theme=&title_color=f4ede8&icon_color=ff9000&text_color=f4ede8&bg_color=312e38" />
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arturhvcpn&layout=compact&theme=&title_color=ffffff&icon_color=392F63&text_color=ffffff&bg_color=B41E13" />
 </a>
